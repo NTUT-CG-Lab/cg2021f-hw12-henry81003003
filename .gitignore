@@ -9,6 +9,9 @@ gen
 # Jupyter notebook
 .ipynb_checkpoints
 
+# data
+data/test_data
+
 # model
 model
 
